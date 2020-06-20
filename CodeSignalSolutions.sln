@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSignalSolutions", "Code
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingTwoInts", "AddingTwoInts\AddingTwoInts.csproj", "{B6D65891-B07C-46C9-9F91-469ECE41F8CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyFromYear", "CenturyFromYear\CenturyFromYear.csproj", "{7556D581-7EC3-4479-A99D-AADFD134267E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B6D65891-B07C-46C9-9F91-469ECE41F8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6D65891-B07C-46C9-9F91-469ECE41F8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6D65891-B07C-46C9-9F91-469ECE41F8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7556D581-7EC3-4479-A99D-AADFD134267E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7556D581-7EC3-4479-A99D-AADFD134267E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7556D581-7EC3-4479-A99D-AADFD134267E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7556D581-7EC3-4479-A99D-AADFD134267E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
