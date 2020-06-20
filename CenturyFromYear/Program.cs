@@ -15,7 +15,9 @@ namespace CenturyFromYear {
 				return;
 			}
 
-			string firstTwoDigits = year.ToString().Substring(0, 2);
+			string firstTwoDigits = year.ToString()
+				.Substring(0, year.ToString().Length - 2);
+			
 			int onlyFirstTwoDigits = int.Parse(firstTwoDigits);
 			Console.WriteLine(onlyFirstTwoDigits + 1);
 		}
